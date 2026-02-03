@@ -79,6 +79,8 @@ Atualmente estou:
 
 🎨 Desenvolvimento web (HTML, CSS e JavaScript) 
 
+🔥 Desenvolvimento Back-end (Java, Python e C)
+
 
 <div align="center">
 
