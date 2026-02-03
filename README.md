@@ -49,7 +49,7 @@ Por isso, este espaço vai ter:
 - Pequenos projetos em HTML, CSS e JS  
 - Experimentos com Python e automação  
 
-[![Site teste html, css e php](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://dantasapresent.liveblog365.com/?i=1)
+[![Site teste html, css e php](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://gsouza9.github.io/thecloset50/)
 
 *Um dos meus primeiros testes em HTML + CSS*  
 
