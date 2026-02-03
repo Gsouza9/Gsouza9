@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">EAEE!!! ME CHAMO GUSTAVO🖥️🏅</h2>
+<h2 align="left">EAEE!!! EU SOU O GUSTAVO🖥️🏅</h2>
 
 ###
 
