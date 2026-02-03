@@ -1,12 +1,10 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=fontColor=0F00DB" />
+</div>
 
 ###
 
-<h2 align="left">Olá! Eu sou o Gustavo Vieira 👋  
-Desenvolvedor de Software com foco em aplicações web.  
-Tenho experiência com front-end, lógica de programação  
-e estou sempre buscando evoluir, aprender novas tecnologias  
-e transformar ideias em soluções funcionais e bem estruturadas.
-</h2>
+<h2 align="left">🖥️EAEE!! EU SOU O GUSTAVO✨</h2>
 
 ###
 
@@ -20,7 +18,22 @@ e transformar ideias em soluções funcionais e bem estruturadas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" />
 </div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=github_dark&fontColor=0F00DB" />
+</div>
+
+
+###
 <!--
 **Gsouza9/Gsouza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
