@@ -55,11 +55,6 @@ Por isso, este espaço vai ter:
 
 
 
-https://phdantass.github.io/Projeto_banco_de_dados-SQLite/
-
-*criando um feedback basico*
-- 📊 Exercícios de banco de dados (em breve no GitHub)  
-
 ---
 
 <div align="center">
