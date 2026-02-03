@@ -1,50 +1,124 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=fontColor=0F00DB" />
+  
+ # 👋 Oi, eu sou o Gustavo Vieira
+</div>
+ 
+ Estudo no Senac e sou apaixonado por tecnologia. Aqui você vai encontrar meus projetos, aprendizados e experiências na área de TI e programação 🚀  
+
+Meu objetivo é simples: **crescer como profissional de TI e programação** e deixar registrado aqui cada passo dessa caminhada 🚀  
+
+---
+<div align="center">
+  
+## 💻 O que eu já aprendi no Senac  
 </div>
 
-###
 
-<h2 align="left">🖥️EAEE!! EU SOU O GUSTAVO🏅</h2>
 
-###
+Durante meus estudos, tive contato com várias áreas importantes da tecnologia, como:  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" />
+- 🌐 **Redes de computadores** (configuração, cálculo de IP, conceitos básicos de comunicação)  
+- 🖥️ **Hardware e manutenção de computadores**  
+- 💽 **Instalação de sistemas operacionais** (Windows, Linux e outros)  
+- 🛠️ **Máquinas virtuais e servidores**  
+- 📊 **Banco de dados** (modelagem e uso básico de SQL)  
+- 🖌️ **HTML e CSS** para estrutura e estilo de páginas  
+- ⚡ **JavaScript** para interatividade e dinamismo no front-end  
+- 🔧 **Manutenção preventiva e corretiva de computadores**  
+- 🚀 E muitos outros aprendizados que vou colocando em prática por aqui  
+
+Esses conhecimentos me deram uma visão ampla da área de TI, unindo **infraestrutura, programação e banco de dados**.  
+
+---
+<div align="center">
+  
+## 📸 Projetos e registros
+
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phdantass&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/phdantass/phdantass/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-###
+Acredito que aprender é também **mostrar e compartilhar**.  
+Por isso, este espaço vai ter:  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph.svg">
-</picture>
+- Prints de sistemas e páginas que desenvolvi  
+- Testes em máquinas virtuais e servidores  
+- Exercícios de banco de dados  
+- Pequenos projetos em HTML, CSS e JS  
+- Experimentos com Python e automação  
 
-###
+[![Site teste html, css e php](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://dantasapresent.liveblog365.com/?i=1)
+
+*Um dos meus primeiros testes em HTML + CSS*  
+
+
+
+https://phdantass.github.io/Projeto_banco_de_dados-SQLite/
+
+*criando um feedback basico*
+- 📊 Exercícios de banco de dados (em breve no GitHub)  
+
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=github_dark&fontColor=0F00DB" />
+  
+## 🤝 Sobre mim  
 </div>
 
+Sou alguém curioso, criativo e persistente.  
+Vejo a tecnologia não só como uma profissão, mas como uma forma de **resolver problemas e transformar vidas**.  
 
-###
-<!--
-**Gsouza9/Gsouza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou:  
+🌐 Redes de computadores (configuração, IP, servidores e máquinas virtuais)
 
-Here are some ideas to get you started:
+🖥️ Infraestrutura (hardware, manutenção e instalação de sistemas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Banco de dados (modelagem e SQL)
+
+🎨 Desenvolvimento web (HTML, CSS e JavaScript) 
+
+
+<div align="center">
+
+  ## 📬 Contatos
+  
+  </div>
+
+<div align="center">
+  
+📬 Onde você pode me encontrar:
+
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-ti-a-mais)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eo_dantasph)
+[![Currículo](https://img.shields.io/badge/📥_Currículo-0A66C2?style=for-the-badge)](./Profile.pdf)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511915630299)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro2008hds@gmail.com)
+
+  </div>
+
+---
+<div align="center">
+  
+## ✨ Mensagem final    
+</div>
+Se você chegou até aqui, obrigado de verdade 🙏  
+Fica o convite: explore, acompanhe e, se quiser, converse comigo.  
+Tenho certeza que **o melhor ainda está por vir** 🚀
+
+
+<div align="center">
+  
+## 💖 Apoie meu trabalho  
+
+Se você curtiu meus projetos e quiser dar uma força, qualquer ajuda é bem-vinda 🙏  
+
+
+
+📌 **Chave Pix (E-mail):**  
+`pedro2008hds@gmail.com`  
+
+</div>
