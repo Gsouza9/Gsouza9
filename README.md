@@ -118,7 +118,7 @@ Se você curtiu meus projetos e quiser dar uma força, qualquer ajuda é bem-vin
 
 
 
-📌 **Chave Pix (E-mail):**  
+📌 **Chave Pix (Meu Nº):**  
 `11979986400`  
 
 </div>
