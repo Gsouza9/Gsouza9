@@ -96,7 +96,7 @@ Atualmente estou:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-souto-158b56313/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogusta.vs/)
-[![Currículo](https://img.shields.io/badge/📥_Currículo-0A66C2?style=for-the-badge)](./Profile.pdf)
+[![Currículo](https://img.shields.io/badge/📥_Currículo-0A66C2?style=for-the-badge)](./Currículo.pdf)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511979986400)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogusta2107@gmail.com)
 
