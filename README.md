@@ -1,6 +1,6 @@
 <div align="center">
   
- # 👋 Oi, eu sou o Gustavo Vieira
+ # 👋 Opaa, eu sou o Gustavo Vieira
 </div>
  
  Estudo no Senac e sou apaixonado por tecnologia. Aqui você vai encontrar meus projetos, aprendizados e experiências na área de TI e programação 🚀  
