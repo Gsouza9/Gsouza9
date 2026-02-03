@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá!! Sou o CAZÃO DEV🖥️🏅</h2>
+<h2 align="left">Opaa!! Sou o Gustavo DEV🖥️🏅</h2>
 
 ###
 
