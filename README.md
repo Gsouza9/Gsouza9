@@ -1,121 +1,97 @@
-<div align="center">
-  
- # 👋 Opaa, eu sou o Gustavo Vieira
-</div>
- 
- Estudo no Senac e sou apaixonado por tecnologia. Aqui você vai encontrar meus projetos, aprendizados e experiências na área de TI e programação 🚀  
+# 👨🏻‍💻 Gustavo Vieira de Souto
 
-Meu objetivo é simples: **crescer como profissional de TI e programação** e deixar registrado aqui cada passo dessa caminhada 🚀  
+### Software Engineering Student | IT Technician | Technology Enthusiast
 
----
-<div align="center">
-  
-## 💻 O que eu já aprendi no Senac  
-</div>
-
-
-
-Durante meus estudos, tive contato com várias áreas importantes da tecnologia, como:  
-
-- 🌐 **Redes de computadores** (configuração, cálculo de IP, conceitos básicos de comunicação)  
-- 🖥️ **Hardware e manutenção de computadores**  
-- 💽 **Instalação de sistemas operacionais** (Windows, Linux e outros)  
-- 🛠️ **Máquinas virtuais e servidores**  
-- 📊 **Banco de dados** (modelagem e uso básico de SQL)  
-- 🖌️ **HTML e CSS** para estrutura e estilo de páginas  
-- ⚡ **JavaScript** para interatividade e dinamismo no front-end  
-- 🔧 **Manutenção preventiva e corretiva de computadores**  
-- 🚀 E muitos outros aprendizados que vou colocando em prática por aqui  
-
-Esses conhecimentos me deram uma visão ampla da área de TI, unindo **infraestrutura, programação e banco de dados**.  
-
----
-<div align="center">
-  
-## 📸 Projetos e registros
-
-  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phdantass&show_icons=true&theme=radical)
-
-![Snake animation](https://github.com/phdantass/phdantass/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-Acredito que aprender é também **mostrar e compartilhar**.  
-Por isso, este espaço vai ter:  
-
-- Prints de sistemas e páginas que desenvolvi  
-- Testes em máquinas virtuais e servidores  
-- Exercícios de banco de dados  
-- Pequenos projetos em HTML, CSS e JS  
-- Experimentos com Python e automação  
-
-[![Site teste html, css e php](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://gsouza9.github.io/thecloset50/)
-
-*Um dos meus primeiros testes em HTML + CSS*  
-
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=600&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Always+learning+and+building+new+things." alt="Typing SVG" />
+</p>
 
 ---
 
-<div align="center">
-  
-## 🤝 Sobre mim  
-</div>
+## 🚀 Sobre mim
 
-Sou alguém curioso, criativo e persistente.  
-Vejo a tecnologia não só como uma profissão, mas como uma forma de **resolver problemas e transformar vidas**.  
+Olá! Sou Gustavo Vieira, Técnico em Informática formado pelo SENAC e atualmente estudante de **Engenharia de Software pela Cruzeiro do Sul**.
 
-Atualmente estou:  
-🌐 Redes de computadores (configuração, IP, servidores e máquinas virtuais)
+Sou apaixonado por tecnologia e estou construindo minha carreira na área de Tecnologia da Informação, buscando constantemente aprender, desenvolver projetos e transformar conhecimentos em soluções práticas.
 
-🖥️ Infraestrutura (hardware, manutenção e instalação de sistemas)
+Tenho interesse especial em:
 
-📊 Banco de dados (modelagem e SQL)
+- 💻 Desenvolvimento de Software
+- 🖥️ Infraestrutura e Suporte de TI
+- 🌐 Redes de Computadores
+- 🗄️ Banco de Dados
+- 🔐 Cibersegurança
+- ⚙️ Hardware e Sistemas Operacionais
 
-🎨 Desenvolvimento web (HTML, CSS e JavaScript) 
-
-🔥 Desenvolvimento Back-end (Java, Python e C)
-
-
-<div align="center">
-
-  ## 📬 Contatos
-  
-  </div>
-
-<div align="center">
-  
-📬 Onde você pode me encontrar:
-
-
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-souto-158b56313/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogusta.vs/)
-[![Currículo](https://img.shields.io/badge/📥_Currículo-0A66C2?style=for-the-badge)](./Currículo.pdf)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511979986400)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogusta2107@gmail.com)
-
-  </div>
+Atualmente, estou focado em aprimorar minhas habilidades técnicas e conquistar novas experiências profissionais na área de TI.
 
 ---
-<div align="center">
-  
-## ✨ Mensagem final    
-</div>
-Se você chegou até aqui, obrigado de verdade 🙏  
-Fica o convite: explore, acompanhe e, se quiser, converse comigo.  
-Tenho certeza que **o melhor ainda está por vir** 🚀
 
+## 🛠️ Tecnologias e conhecimentos
 
-<div align="center">
-  
-## 💖 Apoie meu trabalho  
+### Linguagens e desenvolvimento
 
-Se você curtiu meus projetos e quiser dar uma força, qualquer ajuda é bem-vinda 🙏  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+</p>
 
+### Sistemas e infraestrutura
 
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash" />
+</p>
 
-📌 **Chave Pix (Meu Nº):**  
-`11979986400`  
+### Ferramentas
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Também estudo e desenvolvo conhecimentos em:**
+- Banco de dados e SQL.
+- Manutenção e montagem de computadores.
+- Redes e infraestrutura.
+- Suporte técnico.
+- Fundamentos de segurança da informação.
+
+---
+
+## 🎓 Formação acadêmica
+
+- 🎓 **Engenharia de Software** — Cruzeiro do Sul Virtual (em andamento).
+- 💻 **Técnico em Informática** — SENAC (concluído).
+- 📚 Formação complementar em Informática — Microcamp.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gsouza9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsouza9&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://github.com/Gsouza9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gustavo-souto-158b56313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📍 São Paulo — Brasil
+
+---
+
+<p align="center">
+  <i>"A melhor maneira de prever o futuro é construí-lo."</i>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
